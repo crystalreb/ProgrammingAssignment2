@@ -24,7 +24,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 ## Write a short comment describing this function
 ## cacheSolve inputs a cached list, searches for a particular matrix, 
-## and goes into that environment and retrieves 
+## and goes into that environment and retrieves.
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
